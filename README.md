@@ -9,7 +9,8 @@ Paper title:
 <br>
 by Hong Yu and Jia Tang et al.
 <br>
-ACM Reference Format：Hong Yu, Jia Tang, Guoyin Wang, and Xinbo Gao. 2021. A Novel MultiView Clustering Method for Unknown Mapping Relationships Between Cross-View Samples. In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’21), August 14–18, 2021, Virtual Event, Singapore. ACM, New York, NY, USA, 9 pages. https://doi.org/10.1145/3447548.3467294.
+**ACM Reference Format：**
+Hong Yu, Jia Tang, Guoyin Wang, and Xinbo Gao. 2021. A Novel Multi—View Clustering Method for Unknown Mapping Relationships Between Cross-View Samples. In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’21), August 14–18, 2021, Virtual Event, Singapore. ACM, New York, NY, USA, 9 pages. https://doi.org/10.1145/3447548.3467294.
 <br>
 <br>
 Copyright (C) 2021
